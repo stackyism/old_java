@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=Xfirst\ Xlast
+comment0.target=student(String,\ String)
+comment1.params=Xfirst\ Xlast
+comment1.target=void\ printData(String,\ String)
+numComments=2

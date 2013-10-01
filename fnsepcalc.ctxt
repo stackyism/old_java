@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=void\ sum(int,\ int)
+comment1.params=a\ b
+comment1.target=void\ sub(int,\ int)
+comment2.params=a\ b
+comment2.target=void\ mul(int,\ int)
+comment3.params=a\ b
+comment3.target=void\ div(double,\ double)
+comment4.params=arg
+comment4.target=void\ main([)
+numComments=5

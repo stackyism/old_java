@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Number()
+comment1.params=n
+comment1.target=Number(long)
+comment2.target=void\ digitfrequency()
+comment3.target=long\ sumDigit()
+comment4.params=arg
+comment4.target=void\ main([)
+numComments=5

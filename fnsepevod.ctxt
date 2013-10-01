@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ even(int)
+comment1.params=a
+comment1.target=void\ odd(int)
+comment2.params=arg
+comment2.target=void\ main([)
+numComments=3
